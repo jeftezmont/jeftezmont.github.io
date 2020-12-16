@@ -7,7 +7,7 @@ url                          : "" # the base hostname & protocol for your site
 blog:
   title                      : jeftezmont
   description                  : >
-                               this should contain a proper description
+                               </> por Jefté Montenegro.
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
