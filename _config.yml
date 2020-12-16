@@ -7,8 +7,7 @@ url                          : "" # the base hostname & protocol for your site
 blog:
   title                      : jeftezmont
   description                  : >
-                               "</> por Jefté Montenegro"
-
+                               Hecho con ❤ por Jefté Montenegro
 # Layout configuration
   logo_path                  : "assets/img/electricity.svg" # path to logo file
   search_path                : # "yourgitusername.github.io"
