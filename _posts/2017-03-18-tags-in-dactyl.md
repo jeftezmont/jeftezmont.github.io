@@ -25,7 +25,7 @@ description: >
              This is an awesome description of my cool stuff tag which will be display underneath the title of this tag's page.
 ---
 ~~~
-
+<!–-break-–>
 `slug` is a mandatory field and defines tag's slug, accessible at `yourblog.com/tag/dactl/`, use `-` instead of spaces here.  
 `name` is a mandatory field and defines tag's name, e.g. `Cool Stuff`.  
 `description` is an optional field, it's visible on tag's page.  
