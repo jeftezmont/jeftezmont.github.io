@@ -24,6 +24,8 @@ Bienvenido a mi blog personal, he decidido crear este espacio para contar histor
 
 ### Sobre mí
 
-Soy Jefté Montenegro, tengo 21 años y recido en la Ciudad de México. Estudio Sistemas Computacionales y me enfoco principalmente en el desarrollo web. Tengo un servidor de Minecraft que se llama [RedStorm](https://discord.gg/nrjVfmKaKu) y estoy seguro que sí te gusta él Minecraft Técnico te encantará. Llevo varios proyectos, el más conocido es ISNOM, aunque recientemente he fundado Syrup, ambos son medios donde hacemos difusión de arte, cultura y ocio. Soy el 50% de Kaurismäki, que en conjunto con Emilia Hernández creamos unas [rolas](https://open.spotify.com/track/7wGfHCPktNXNGwzXYQHnjw?si=NQlZ6RqcShCRNDc6QuPmvA) bien chidas y deberías escucharlas. 
+Soy Jefté Montenegro, tengo 21 años y resido en la Ciudad de México. Estudio Sistemas Computacionales y me enfoco principalmente en el desarrollo web. Tengo un servidor de Minecraft que se llama [RedStorm](https://discord.gg/nrjVfmKaKu) y estoy seguro que sí te gusta él Minecraft Técnico te encantará. 
+
+Llevo varios proyectos, el más conocido es ISNOM, aunque recientemente he fundado Syrup. Ambos son medios donde hacemos difusión de arte, cultura y ocio. Soy el 50% de Kaurismäki, que en conjunto con Emilia Hernández creamos unas [rolas](https://open.spotify.com/track/7wGfHCPktNXNGwzXYQHnjw?si=NQlZ6RqcShCRNDc6QuPmvA) bien chidas y deberías escucharlas. 
 
 </div>
