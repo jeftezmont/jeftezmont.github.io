@@ -1,16 +1,18 @@
 ---
 layout: post
-title: Nuevo álbum de Armin van Buuren
+title: Álbumes favoritos de toda la vida
 tags:
     - dactl
 description: >
-    Bienvenido, está es la primer página de mi blog. Además de la presentación. 
+    Este es mi post introductorio y empezaré contando mis álbumes favoritos
+    de toda la vida. 
 hero: https://source.unsplash.com/3y1zF4hIPCg
 overlay: green
 published: true
 ---
-
-#Inicio
+Este es mi post en este espacio web y empezaré contandoles los álbumes que han marcado mi vida,
+espero que alguno les guste. ^^
+{: .lead}
 
 
 *[HTML]: HyperText Markup Language
