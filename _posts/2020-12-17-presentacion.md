@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Presentación
+title: 'Presentación'
 description: >
 Bienvenido, está es la primer página de mi blog. Además de la presentación. 
 hero: https://source.unsplash.com/3y1zF4hIPCg
 overlay: blue
-published: true
 ---
 
 Texto de Prueba
