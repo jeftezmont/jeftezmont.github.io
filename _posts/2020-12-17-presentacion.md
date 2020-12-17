@@ -2,7 +2,7 @@
 layout: post
 title: Álbumes que han marcado mi vida
 tags:
-    - dactl
+    - musica
 description: >
     220 ha sido un año de retos, por ello te cuento mis álbumes favoritos.
 hero: https://source.unsplash.com/2uGNgqKIvNo
