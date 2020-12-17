@@ -6,8 +6,8 @@ tags:
 description: >
     Este es mi post introductorio y empezaré contando mis álbumes favoritos
     de toda la vida. 
-hero: https://source.unsplash.com/3y1zF4hIPCg
-overlay: green
+hero: https://source.unsplash.com/2uGNgqKIvNo
+overlay: blue
 published: true
 ---
 Este es mi post en este espacio web y empezaré contandoles los álbumes que han marcado mi vida,
