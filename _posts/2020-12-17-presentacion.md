@@ -2,7 +2,7 @@
 layout: post
 title: Prueba
 tags:
-    -dactl
+    - dactl
 description: >
     Bienvenido, está es la primer página de mi blog. Además de la presentación. 
 hero: https://source.unsplash.com/3y1zF4hIPCg
