@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prueba
+title: Nuevo álbum de Armin van Buuren
 tags:
     - dactl
 description: >
@@ -10,7 +10,8 @@ overlay: green
 published: true
 ---
 
-Texto de Prueba
+#Inicio
+
 
 *[HTML]: HyperText Markup Language
 *[CSS]: Cascading Style Sheets
