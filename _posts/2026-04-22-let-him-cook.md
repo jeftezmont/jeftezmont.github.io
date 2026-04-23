@@ -80,7 +80,7 @@ John hereda una máquina perfecta, pero aporta el ingrediente que muchos extrañ
 El banquete está servido. La receta ha sido perfeccionada. Y el nuevo chef parece tener el mismo hambre de perfección que el hombre que empezó todo en un garaje de Los Altos.
 
 ---
-**Jefté Montenegro** *FusionDrive*
+**Jefté Montenegro** 
 
 *[HTML]: HyperText Markup Language
 *[CSS]: Cascading Style Sheets
